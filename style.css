@@ -822,7 +822,7 @@ main{
   margin-top: 18px;
   background-repeat: no-repeat;
   display: flex;
-  background-image: url(/svg/horizontal_menu.svg);
+  background-image: url(svg/horizontal_menu.svg);
 }
 .card{
   padding-bottom: 53px;
@@ -1076,7 +1076,7 @@ header{
   height: 25px;
   background-repeat: no-repeat;
   display: flex;
-  background-image: url(/svg/horizontal_menu.svg);
+  background-image: url(svg/horizontal_menu.svg);
 }
 .header__title{
   font-size: 26px;
